@@ -26,7 +26,7 @@ public class Calisan {
     }
 
     public void setAd(String ad) {
-        ad = ad;
+        this.ad = ad;
     }
 
     public String getEposta() {

@@ -1,7 +1,7 @@
 public class Kare extends Sekil{
-    private int kenar;
+    private double kenar;
 
-    public Kare(int kenar) {
+    public Kare(double kenar) {
         this.kenar = kenar;
     }
 
@@ -10,7 +10,7 @@ public class Kare extends Sekil{
         return kenar * kenar;
     }
 
-    public int getKenar() {
+    public double getKenar() {
         return kenar;
     }
 

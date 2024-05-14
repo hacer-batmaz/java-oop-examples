@@ -1,8 +1,8 @@
 public class Ucgen extends Sekil{
-    private int yukseklik;
-    private int taban;
+    private double yukseklik;
+    private double taban;
 
-    public Ucgen(int yukseklik, int taban) {
+    public Ucgen(double yukseklik, double taban) {
         this.yukseklik = yukseklik;
         this.taban = taban;
     }
@@ -12,7 +12,7 @@ public class Ucgen extends Sekil{
         return (taban * yukseklik) / 2;
     }
 
-    public int getYukseklik() {
+    public double getYukseklik() {
         return yukseklik;
     }
 
@@ -20,7 +20,7 @@ public class Ucgen extends Sekil{
         this.yukseklik = yukseklik;
     }
 
-    public int getTaban() {
+    public double getTaban() {
         return taban;
     }
 

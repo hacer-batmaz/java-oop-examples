@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaOOP.iml" filepath="$PROJECT_DIR$/JavaOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/MineSweeper/MineSweeper.iml" filepath="$PROJECT_DIR$/MineSweeper/MineSweeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/OgrenciBilgi/OgrenciBilgi.iml" filepath="$PROJECT_DIR$/OgrenciBilgi/OgrenciBilgi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhoneCalculate/PhoneCalculate.iml" filepath="$PROJECT_DIR$/PhoneCalculate/PhoneCalculate.iml" />
     </modules>
   </component>
 </project>
